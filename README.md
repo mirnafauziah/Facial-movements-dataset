@@ -15,10 +15,12 @@ Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat d
 Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (video-dataset.mp4 dan gerakan-mata-alis.jpeg).
 
 ## Perhatian:
-- Mata harus tetap melihat ke arah kamera, jangan ke layar
-- Saat point ke 3 dan ke 4 dilakukan, jangan sampai mata tertutup
+- Gambar jelas
 - Posisi kamera landscape 
 - Dapat menggunakan kamera hp
+- Tidak apa-apa bila kondisi sekitar berisik
+- Mata harus tetap melihat ke arah kamera, jangan ke layar
+- Saat point ke 3 dan ke 4 dilakukan, jangan sampai mata tertutup
 - Hasil video yang telah dibuat dapat dikirimkan melalui email ke alamat: mirnafauziah36@gmail.com atau mirnafauziah@students.itb.ac.id (subject: Video Dataset)
 
 Semua hasil dari pengumpulan dataset ini hanya akan dipergunakan untuk keperluan penelitian dan wajah /identitas anda tidak akan disebar luaskan tanpa izin dari yang bersangkutan.  
