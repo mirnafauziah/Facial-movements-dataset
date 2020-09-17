@@ -15,7 +15,7 @@ Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat d
 Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (video-dataset.mp4 dan gerakan-mata-alis.jpeg).
 
 ## Perhatian:
-- Gambar jelas
+- Gambar harus jelas
 - Posisi kamera landscape 
 - Dapat menggunakan kamera hp
 - Tidak apa-apa bila kondisi sekitar berisik
@@ -28,5 +28,7 @@ Semua hasil dari pengumpulan dataset ini hanya akan dipergunakan untuk keperluan
 Terima kasih atas waktu dan kesediaan anda untuk membuat video ini. Jika ada yang ingin ditanyakan, dapat menghubungi saya melalui email tertera ataupun kolom komentar.
 
 Hormat saya,
+
 Mirna Fauziah
+
 (mirnafauziah@students.itb.ac.id)
