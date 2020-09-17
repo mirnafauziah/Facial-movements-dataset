@@ -12,7 +12,7 @@ Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat d
 6. Kepala menghadap ke kanan-kiri-atas-bawah
 7. Pelafalan A B C D E F
 
-Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (video-dataset.mp4 dan gerakan-mata.jpg).
+Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (video-dataset.mp4 dan gerakan-mata-alis.jpg).
 
 ## Perhatian:
 - Mata harus tetap melihat ke arah kamera, jangan ke layar
