@@ -14,7 +14,7 @@ Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat d
 
 Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (video-dataset.mp4 dan gerakan-mata.jpg).
 
-Perhatian:
+## Perhatian:
 - Mata harus tetap melihat ke arah kamera, jangan ke layar
 - Saat point ke 3 dan ke 4 dilakukan, jangan sampai mata tertutup
 - Posisi kamera landscape 
@@ -26,5 +26,5 @@ Semua hasil dari pengumpulan dataset ini hanya akan dipergunakan untuk keperluan
 Terima kasih atas waktu dan kesediaan anda untuk membuat video ini. Jika ada yang ingin ditanyakan, dapat menghubungi saya melalui email tertera ataupun kolom komentar.
 
 Hormat saya,
-Fitria Rahayu Khaerani
+Mirna Fauziah
 (mirnafauziah@students.itb.ac.id)
