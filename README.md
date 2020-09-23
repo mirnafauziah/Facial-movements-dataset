@@ -14,6 +14,7 @@ Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat d
 Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (video-dataset.mp4 dan gerakan-mata-alis.jpeg).
 
 ## Perhatian:
+- Pencahayaan cukup
 - Gambar harus jelas
 - Posisi kamera landscape 
 - Dapat menggunakan kamera hp
