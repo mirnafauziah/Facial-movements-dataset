@@ -10,7 +10,6 @@ Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat d
 4. Mata melirik ke samping kiri (posisi kepala tetap diam)
 5. Mata lihat ke kamera (center) 
 6. Kepala menghadap ke kanan-kiri-atas-bawah
-7. Pelafalan A B C D E F
 
 Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (video-dataset.mp4 dan gerakan-mata-alis.jpeg).
 
