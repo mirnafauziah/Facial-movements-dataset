@@ -25,7 +25,7 @@ Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (v
 
 Semua hasil dari pengumpulan dataset ini hanya akan dipergunakan untuk keperluan penelitian dan wajah /identitas anda tidak akan disebar luaskan tanpa izin dari yang bersangkutan.  
 
-Terima kasih atas waktu dan kesediaan anda untuk membuat video ini. Jika ada yang ingin ditanyakan, dapat menghubungi saya melalui email tertera ataupun kolom komentar.
+Terima kasih atas waktu dan kesediaan anda untuk membuat video ini. Jika ada yang ingin ditanyakan, dapat menghubungi saya melalui email tertera.
 
 Hormat saya,
 
