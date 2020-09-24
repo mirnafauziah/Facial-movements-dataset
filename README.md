@@ -11,7 +11,9 @@ Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat d
 5. Mata lihat ke kamera (center) 
 6. Kepala menghadap ke kanan-kiri-atas-bawah
 
+![gerakan-mata-alis](https://user-images.githubusercontent.com/60698877/94176254-03dac180-fec2-11ea-81a1-69c17bfe7043.jpeg)
 Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (video-dataset.mp4 dan gerakan-mata-alis.jpeg).
+
 
 ## Perhatian:
 - Pencahayaan cukup
@@ -21,7 +23,7 @@ Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (v
 - Tidak apa-apa bila kondisi sekitar berisik
 - Mata harus tetap melihat ke arah kamera, jangan ke layar
 - Saat point ke 3 dan ke 4 dilakukan, jangan sampai mata tertutup
-- Hasil video yang telah dibuat dapat dikirimkan melalui email ke alamat: mirnafauziah36@gmail.com atau mirnafauziah@students.itb.ac.id (subject: Video Dataset)
+- Hasil video yang telah dibuat dapat dikirimkan melalui email ke alamat: mirnafauziah36@gmail.com atau mirnafauziah@students.itb.ac.id (subject: Video-Dataset_nama-anda)
 
 Semua hasil dari pengumpulan dataset ini hanya akan dipergunakan untuk keperluan penelitian dan wajah /identitas anda tidak akan disebar luaskan tanpa izin dari yang bersangkutan.  
 
