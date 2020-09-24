@@ -12,6 +12,7 @@ Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat d
 6. Kepala menghadap ke kanan-kiri-atas-bawah
 
 ![gerakan-mata-alis](https://user-images.githubusercontent.com/60698877/94176254-03dac180-fec2-11ea-81a1-69c17bfe7043.jpeg)
+
 Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (video-dataset.mp4 dan gerakan-mata-alis.jpeg).
 
 
