@@ -5,7 +5,7 @@ Perkenalkan nama saya Mirna Fauziah, mahasiswi Program Magister Rekayasa Manajem
 
 Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat dideteksi oleh webcam, agar dapat membuat sistem yang andal, dibutuhkan dataset untuk melatih model deep learning yang hendak dirancang. Namun, karena keterbatasan dataset yang tersedia kami memutuskan untuk membuat dataset sendiri agar sesuai dengan yang diinginkan. Oleh karena itu, saya ingin meminta bantuan dari rekan-rekan untuk membuat video yang berisikan gerakan-gerakan sebagai berikut:
 1. Berkedip sebanyak 5 kali 
-2. Menaikan kedua alis dan mengerutkan alis (lihat gambar point 2-b)
+2. Menaikan kedua alis (point 2-a dan mengerutkan alis (lihat gambar point 2-b)
 3. Mata melirik ke samping kanan (posisi kepala tetap diam)
 4. Mata melirik ke samping kiri (posisi kepala tetap diam)
 5. Mata lihat ke kamera (center) 
