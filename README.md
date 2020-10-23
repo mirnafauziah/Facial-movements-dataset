@@ -11,7 +11,7 @@ Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat d
 5. Mata lihat ke kamera (center) 
 6. Kepala menghadap ke kanan-kiri-atas-bawah
 
-#### SETIAP GERAKAN TAHAN SEKITAR 10-15 DETIK
+### SETIAP GERAKAN TAHAN SEKITAR 10-15 DETIK
 
 ![11368](https://user-images.githubusercontent.com/60698877/97029815-22e37680-1588-11eb-97a3-7e5397045c80.jpg)
 
