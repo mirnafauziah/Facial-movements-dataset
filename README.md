@@ -26,9 +26,9 @@ Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (v
 - Tidak apa-apa bila kondisi sekitar berisik
 - Mata harus tetap melihat ke arah kamera, jangan ke layar
 - Saat point ke 3 dan ke 4 dilakukan, jangan sampai mata tertutup
-- Hasil video yang telah dibuat dapat dikirimkan melalui
-1. Email ke alamat: mirnafauziah36@gmail.com atau mirnafauziah@students.itb.ac.id (subject: Video-Dataset_nama-anda)
-2. Melalui WhatsApp: https://wa.wizard.id/b2145f
+- Hasil video yang telah dibuat dapat dikirimkan melalui:
+ 1. Email: mirnafauziah36@gmail.com atau mirnafauziah@students.itb.ac.id (subject: Video-Dataset_nama-anda)
+ 2. WhatsApp: https://wa.wizard.id/b2145f
 
 Semua hasil dari pengumpulan dataset ini hanya akan dipergunakan untuk keperluan penelitian dan wajah /identitas anda tidak akan disebar luaskan tanpa izin dari yang bersangkutan.  
 
