@@ -4,6 +4,9 @@ Kepada rekan-rekan yang saya hormati,
 Perkenalkan nama saya Mirna Fauziah, mahasiswi Program Magister Rekayasa Manajemen dan Keamanan Informasi, STEI ITB. 
 
 Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat dideteksi oleh webcam, agar dapat membuat sistem yang andal, dibutuhkan dataset untuk melatih model deep learning yang hendak dirancang. Namun, karena keterbatasan dataset yang tersedia kami memutuskan untuk membuat dataset sendiri agar sesuai dengan yang diinginkan. Oleh karena itu, saya ingin meminta bantuan dari rekan-rekan untuk membuat video yang berisikan gerakan-gerakan sebagai berikut:
+
+![11368](https://user-images.githubusercontent.com/60698877/97029815-22e37680-1588-11eb-97a3-7e5397045c80.jpg)
+
 #### 1. Berkedip sebanyak 5 kali 
 ![1_blinking](https://user-images.githubusercontent.com/60698877/97391339-992e0300-1911-11eb-892b-b96677d27ca7.gif)
 
@@ -21,8 +24,6 @@ Saat ini saya sedang melakukan penelitian mengenai facial movements yang dapat d
 ![6_kanan-kiri](https://user-images.githubusercontent.com/60698877/97391372-a9de7900-1911-11eb-9200-0efa779a6ae6.gif)
 
 ### SETIAP GERAKAN TAHAN SEKITAR 10-15 DETIK
-
-![11368](https://user-images.githubusercontent.com/60698877/97029815-22e37680-1588-11eb-97a3-7e5397045c80.jpg)
 
 Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (video-dataset.mp4 dan gerakan-mata-alis.jpeg).
 
