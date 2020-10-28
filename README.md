@@ -34,8 +34,7 @@ Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (v
 - Tidak apa-apa bila kondisi sekitar berisik
 - Mata harus tetap melihat ke arah kamera, jangan ke layar
 - Saat point ke 3 dan ke 4 dilakukan, jangan sampai mata tertutup
-#### - Hasil video yang telah dibuat dapat dikirimkan melalui: https://driveuploader.com/upload/7M6TVs96A9/
-
+### Hasil video yang telah dibuat dapat dikirimkan melalui: https://driveuploader.com/upload/7M6TVs96A9/
 Semua hasil dari pengumpulan dataset ini hanya akan dipergunakan untuk keperluan penelitian dan wajah /identitas anda tidak akan disebar luaskan tanpa izin dari yang bersangkutan.  
 
 Terima kasih atas waktu dan kesediaan anda untuk membuat video ini. Jika ada yang ingin ditanyakan, dapat menghubungi saya melalui email/link WhatsApp tertera.
