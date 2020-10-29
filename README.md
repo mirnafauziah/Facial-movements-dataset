@@ -35,6 +35,7 @@ Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (v
 (link harap dibuka di Browser Chrome Mobile, apabila tidak dapat merekam melalu link, tolong rekam secara manual)
 
 Berikut adalah tutorial penggunaan:
+
 ![Fix_tutorial](https://user-images.githubusercontent.com/60698877/97532084-2ba0d600-19e8-11eb-9a8c-b9ea3c708125.gif)
 
 Semua hasil dari pengumpulan dataset ini hanya akan dipergunakan untuk keperluan penelitian dan wajah /identitas anda tidak akan disebar luaskan tanpa izin dari yang bersangkutan.  
