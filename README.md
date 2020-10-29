@@ -32,9 +32,10 @@ Adapun contoh dari gerakan-gerakan tersebut dapat dilihat pada file terlampir (v
 - Mata harus tetap melihat ke arah kamera, jangan ke layar
 - Saat point ke 3 dan ke 4 dilakukan, jangan sampai mata tertutup
 ### Video dapat dibuat dan dikirimkan melalui: https://driveuploader.com/upload/7M6TVs96A9/
-(link harap dibuka di Browser Chrome Mobile)
+(link harap dibuka di Browser Chrome Mobile, apabila tidak dapat merekam melalu link, tolong rekam secara manual)
 
-![demo-record](https://user-images.githubusercontent.com/60698877/97399650-2bd59e80-1920-11eb-8002-c999e6881fc5.gif)
+Berikut adalah tutorial penggunaan:
+![Fix_tutorial](https://user-images.githubusercontent.com/60698877/97532084-2ba0d600-19e8-11eb-9a8c-b9ea3c708125.gif)
 
 Semua hasil dari pengumpulan dataset ini hanya akan dipergunakan untuk keperluan penelitian dan wajah /identitas anda tidak akan disebar luaskan tanpa izin dari yang bersangkutan.  
 
